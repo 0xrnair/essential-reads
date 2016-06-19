@@ -3,7 +3,7 @@ These are a bunch of useful links + pdfs I have been collecting from various sou
 Might contains the answer to "what is the purpose of life?"  
 
 ## Index
-- ### [Crypto](#crypto)
+- [Crypto](#crypto)
 - [Exploitation](#exploitation)
 - [Evasion](#evasion)
 - [*Nix stuff]](#nixstuff)
