@@ -6,7 +6,7 @@ Might contains the answer to "what is the purpose of life?"
 - [Crypto](#crypto)
 - [Exploitation](#exploitation)
 - [Evasion](https://github.com/0xrnair/essential-reads#evasion-anti-debugging)
-- [*Nix stuff]](#nix-stuff)
+- [*Nix stuff](#nix-stuff)
 - [Machine Learning](#machine-learning)
 - [Devops/ Security](#dev-ops--security)
 - [Rootkits](#rootkit)
