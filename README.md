@@ -2,7 +2,14 @@
 These are a bunch of useful links + pdfs I have been collecting from various sources such as twitter, reddit HN etc. Everything you see here is curated (no random copy+pastes ).  
 Might contains the answer to "what is the purpose of life?"  
 
-[Crypto](#crypto)
+## Index
+- ### [Crypto](#crypto)
+- [Exploitation](#exploitation)
+- [Evasion](#evasion)
+- [*Nix stuff]](#nixstuff)
+- [Machine Learning](#machine-learning)
+- [Devops/ Security](#devops)
+- [Rootkits](#rootkit)
 ----
 
 ## **Crypto**
