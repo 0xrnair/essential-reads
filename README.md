@@ -1,6 +1,8 @@
 # **Essential-reads**
-These are a bunch of useful links + pdfs I have been collecting from various sources such as twitter, reddit HN etc. Everything you see here is curated (no random copy+pastes ). Might contains the answer to "what is the purpose of life?"  
+These are a bunch of useful links + pdfs I have been collecting from various sources such as twitter, reddit HN etc. Everything you see here is curated (no random copy+pastes ).  
+Might contains the answer to "what is the purpose of life?"  
 
+[Crypto](#crypto)
 ----
 
 ## **Crypto**
