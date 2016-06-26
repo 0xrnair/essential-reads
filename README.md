@@ -65,6 +65,14 @@ Might contains the answer to "what is the purpose of life?"
 ### Machine Learning
 [Every question about ML](https://blog.bigml.com/2013/02/15/everything-you-wanted-to-know-about-machine-learning-but-were-too-afraid-to-ask-part-one/)
 
+[Irene Chen A Beginner's Guide to Deep Learning PyCon 2016](https://www.youtube.com/watch?v=nCPf8zDJ0d0)
+
+----
+
+### Python Stuff
+
+[Andrey Petrov - See Python, See Python Go, Go Python Go - PyCon 2016 (using go with python)](https://www.youtube.com/watch?v=CkDwb5koRTc)  
+
 ----
 ### Dev-OPS / Security
 [Docker Images Vulnerabilities](https://jpetazzo.github.io/2015/05/27/docker-images-vulnerabilities/)
@@ -85,9 +93,3 @@ Might contains the answer to "what is the purpose of life?"
 [Self Multating X86-64 C Program](https://shanetully.com/2013/12/writing-a-self-mutating-x86_64-c-program/)
 
 [Addign a syscall to linux](https://shanetully.com/2014/04/adding-a-syscall-to-linux-3-14/)
-
-
-
-
-
-
